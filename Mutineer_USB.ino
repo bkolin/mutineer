@@ -41,7 +41,7 @@ SOFTWARE.
  *   - Use the built-in LED or connect your own. Special handling for the Pro Micro is in place.
  *   - Change the key sent when the button is pressed by adjusting the body of the sendKey method.
  *   - Control whether keys should be sent automatically (for testing) by setting testMode to true.
- *   - Change the keys sent in test mode by adjsuting the body of the sendTestKeys method.
+ *   - Change the keys sent in test mode by adjusting the body of the sendTestKeys method.
  *   
  * Usage:
  *   - Connect the Arduino to a host device (Windows, Mac, Linux, Android, etc).
